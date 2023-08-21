@@ -2,6 +2,7 @@
 
 ## Modules
 
-| Module Name                          | Module Description             |
-| ------------------------------------ | ------------------------------ |
-| [Hello World](./example-helloworld/) | A Hello World Example          |
+| Module Name                          | Module Description                      |
+| ------------------------------------ | --------------------------------------- |
+| [Hello World](./example-helloworld/) | A Hello World Example                   |
+| [JPA](./example-jpa/)        | A JPA with simple REST Example          |
