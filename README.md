@@ -5,4 +5,5 @@
 | Module Name                          | Module Description                      |
 | ------------------------------------ | --------------------------------------- |
 | [Hello World](./example-helloworld/) | A Hello World Example                   |
-| [JPA](./example-jpa/)        | A JPA with simple REST Example          |
+| [JPA](./example-jpa/)                | A JPA with simple REST Example          |
+| [Security](./example-security/)      | A Security Configuration Example          |
