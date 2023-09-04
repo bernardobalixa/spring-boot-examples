@@ -6,4 +6,5 @@
 | ------------------------------------ | --------------------------------------- |
 | [Hello World](./example-helloworld/) | A Hello World Example                   |
 | [JPA](./example-jpa/)                | A JPA with simple REST Example          |
-| [Security](./example-security/)      | A Security Configuration Example          |
+| [Security](./example-security/)      | A Security Configuration Example        |
+| [JWT](./example-jwt//)               | A Security with JWT Example             |
